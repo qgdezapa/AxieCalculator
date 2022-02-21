@@ -1,0 +1,1 @@
+An axie calculator that I used in order to calculate automatically the outgoing damage of my axie attacks. This tool is based from the game Axie Infinity.
